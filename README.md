@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmed addy</h1>
+<h3 align="center">A software developer.</h3>
 
 <!--
 **ahmedaddy/ahmedaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
