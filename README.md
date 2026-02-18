@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <summary><h3>Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/ahmedaddy/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaddy&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: overall Top Langs "></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaddy&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="ahmedaddy :: overall Top Langs "></a>
       </p>
         <p align="center">
           <a href="https://github.com/ahmedaddy/">
